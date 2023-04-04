@@ -1,0 +1,88 @@
+body {
+    
+  
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 5%;
+    padding: 0, 5%;
+    
+}
+button {
+    background-color: #6666ff;
+    border: solid 1px black;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: bold;
+    height: 30px;
+
+}
+button:hover {
+    background-color: lightcyan;
+    color: black;
+}
+img {
+    
+}
+a {
+    text-decoration: none;
+    gap: 30px;
+}
+h1 {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    padding-bottom: 30px;
+    /* padding-left: 5%; */
+}
+p {
+    /* padding-left: 5%; */
+}
+.left-section {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5%;
+    
+}
+.logo {
+    font-size: x-large;
+    font-size: bolder;
+    position: relative;
+    left: 20%;
+}
+.logo-img {
+    background-color: black;
+    color: black;
+    width: 100px;
+    height: 35px;
+    position: relative;
+    left: 25px;
+}
+.main-img {
+    width: 80%;
+}
+.nav-links {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    font-size: small;
+    font-weight: lighter;
+    margin-left: 5%;
+    position: relative;
+    right: 13%;
+}
+.Contact_Us {
+    position: relative;
+    right: 80%;
+}
+.crush {
+    color: #6666ff;
+}
